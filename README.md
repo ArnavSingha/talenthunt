@@ -1,4 +1,4 @@
-# TalentLens 🔍
+# TalentHunt 🔍
 
 [![Status](https://img.shields.io/badge/status-operational-brightgreen)](https://talenthunt-nnyi.onrender.com/docs)
 [![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/)
@@ -23,7 +23,7 @@
 
 ## 📖 Overview
 
-TalentLens is an AI-powered recommendation engine designed to streamline the process of selecting SHL assessments for specific job roles. By leveraging natural language processing and semantic search, it helps HR professionals quickly identify the most relevant tests from SHL's extensive catalog of **400+ assessments**, reducing manual effort and improving hiring efficiency.
+TalentHunt is an AI-powered recommendation engine designed to streamline the process of selecting SHL assessments for specific job roles. By leveraging natural language processing and semantic search, it helps HR professionals quickly identify the most relevant tests from SHL's extensive catalog of **400+ assessments**, reducing manual effort and improving hiring efficiency.
 
 ### 🎯 The Challenge
 
@@ -35,7 +35,7 @@ HR teams often face difficulties in aligning job requirements with the right SHL
 
 ### 💡 Our Solution
 
-TalentLens addresses this by automating the discovery process:
+TalentHunt addresses this by automating the discovery process:
 1. Scrapes SHL's product catalog for comprehensive assessment data
 2. Converts assessment descriptions into vector embeddings using NLP
 3. Performs semantic matching against job descriptions
@@ -261,6 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <b>TalentLens</b> - Intelligent Assessment Matching for Modern HR<br>
+  <b>TalentHunt</b> - Intelligent Assessment Matching for Modern HR<br>
   Made with ❤️ using FastAPI, ChromaDB & Gemini AI
 </p>
